@@ -122,7 +122,7 @@ const Login = () => {
                             Forgot your password?
                         </Link>
 
-                        <Button className="ml-3">Login</Button>
+                        <Button href="/dashboard"className="ml-3">Login</Button>
                     </div>
                 </form>
             </AuthCard>
